@@ -22,7 +22,8 @@ A aplicação deve ser desenvolvida em **Java com Spring Boot**, expondo um back
 - **Spring Boot** (Web, Data JPA, Security)  
 - **Banco de Dados**: a Definir
 - **JUnit** (para testes unitários)  
-- **Maven** (gerenciador de dependências)  
+- **Maven** (gerenciador de dependências)
+- **Trello**(Quadro Kanban)
 
 ---
 
