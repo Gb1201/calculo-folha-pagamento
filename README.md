@@ -24,12 +24,11 @@ A aplicação deve ser desenvolvida em **Java com Spring Boot**, expondo um back
 - **JUnit** (para testes unitários)  
 - **Maven** (gerenciador de dependências)
 - **Trello**(Quadro Kanban)
-- - **React com TSX**(FrontEnd)
+- **React com TSX**(FrontEnd)
 
 ---
 
 
----
 
 ## 📅 Entregas por Sprint
 
