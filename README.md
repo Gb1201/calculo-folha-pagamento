@@ -18,12 +18,13 @@ A aplicação deve ser desenvolvida em **Java com Spring Boot**, expondo um back
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- **Java 21**  
+- **Java 17**  
 - **Spring Boot** (Web, Data JPA, Security)  
-- **Banco de Dados**: a Definir
+- **Banco de Dados**: a Definir(PostreSQL ou MySQL)
 - **JUnit** (para testes unitários)  
 - **Maven** (gerenciador de dependências)
 - **Trello**(Quadro Kanban)
+- - **React com TSX**(FrontEnd)
 
 ---
 
@@ -65,3 +66,4 @@ A aplicação deve ser desenvolvida em **Java com Spring Boot**, expondo um back
 - João Gabriel
 
 ---
+
